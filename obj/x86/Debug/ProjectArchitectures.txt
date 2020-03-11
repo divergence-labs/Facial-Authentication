@@ -1,0 +1,3 @@
+C:\Cognitive-Samples-IntelligentKiosk\Kiosk\IntelligentKioskSample.csproj;x86
+C:\Cognitive-Samples-IntelligentKiosk\Kiosk\KioskRuntimeComponent\KioskRuntimeComponent.csproj;neutral
+C:\Cognitive-Samples-IntelligentKiosk\Kiosk\ServiceHelpers\ServiceHelpers.csproj;neutral

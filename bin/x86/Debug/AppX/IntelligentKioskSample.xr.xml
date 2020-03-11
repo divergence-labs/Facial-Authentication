@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="Background" />
+    <RootPropertyPathName Name="Probability" />
+    <RootPropertyPathName Name="Tag" />
+    <RootPropertyPathName Name="SubHeaderText" />
+    <RootPropertyPathName Name="SubHeaderVisibility" />
+    <RootPropertyPathName Name="HeaderText" />
+    <RootPropertyPathName Name="FlowDirection" />
+    <RootPropertyPathName Name="Header" />
+    <RootPropertyPathName Name="BarColor2" />
+    <RootPropertyPathName Name="BarColor1" />
+    <RootPropertyPathName Name="BarValue" />
+    <RootPropertyPathName Name="BalloonBackground" />
+    <RootPropertyPathName Name="EmotionData" />
+    <RootPropertyPathName Name="Key" />
+    <RootPropertyPathName Name="Value" />
+    <RootPropertyPathName Name="BalloonForeground" />
+    <RootPropertyPathName Name="CaptionText" />
+    <RootPropertyPathName Name="MeterForeground" />
+    <RootPropertyPathName Name="EmotionValue" />
+    <RootPropertyPathName Name="EmotionName" />
+    <RootPropertyPathName Name="DisplayText" />
+    <RootPropertyPathName Name="CroppedFace" />
+    <RootPropertyPathName Name="FilteredNewsResults" />
+    <RootPropertyPathName Name="TitleSentiment" />
+    <RootPropertyPathName Name="Article" />
+    <RootPropertyPathName Name="Url" />
+    <RootPropertyPathName Name="Title" />
+    <RootPropertyPathName Name="ThumbnailUrl" />
+    <RootPropertyPathName Name="TopKeyPhrases" />
+    <RootPropertyPathName Name="KeyPhrase" />
+    <RootPropertyPathName Name="Count" />
+    <RootPropertyPathName Name="ReferenceUrl" />
+    <RootPropertyPathName Name="SimilarityScore" />
+    <RootPropertyPathName Name="Occupation" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="ImageUrl" />
+    <RootPropertyPathName Name="Price" />
+    <RootPropertyPathName Name="PredictionDataForRetraining" />
+    <RootPropertyPathName Name="TagName" />
+    <RootPropertyPathName Name="HasTag" />
+    <RootPropertyPathName Name="Projects" />
+    <RootPropertyPathName Name="TagSamples" />
+    <RootPropertyPathName Name="TagSampleImage" />
+    <RootPropertyPathName Name="IsObjectDetection" />
+    <RootPropertyPathName Name="Model" />
+    <RootPropertyPathName Name="DisplayName" />
+    <RootPropertyPathName Name="Platforms" />
+    <RootPropertyPathName Name="SelectedTagImages" />
+    <RootPropertyPathName Name="SupportsImageRegions" />
+    <RootPropertyPathName Name="SelectedValue" />
+    <RootPropertyPathName Name="TagsInCurrentGroup" />
+    <RootPropertyPathName Name="DomainId" />
+    <RootPropertyPathName Name="CustomVisionPredictionApiKey" />
+    <RootPropertyPathName Name="CustomVisionTrainingApiKey" />
+    <RootPropertyPathName Name="Image" />
+    <RootPropertyPathName Name="OriginalImageUri" />
+    <RootPropertyPathName Name="Id" />
+    <RootPropertyPathName Name="AvailableTags" />
+    <RootPropertyPathName Name="Region" />
+    <RootPropertyPathName Name="TagId" />
+    <RootPropertyPathName Name="ThumbnailUri" />
+    <RootPropertyPathName Name="Attributes" />
+    <RootPropertyPathName Name="ImagePath" />
+    <RootPropertyPathName Name="SelectedPersonFaces" />
+    <RootPropertyPathName Name="PersonsInCurrentGroup" />
+    <RootPropertyPathName Name="PersonGroups" />
+    <RootPropertyPathName Name="FilteredResults" />
+    <RootPropertyPathName Name="ImageSource" />
+    <RootPropertyPathName Name="TagFilters" />
+    <RootPropertyPathName Name="IsChecked" />
+    <RootPropertyPathName Name="EmotionFilters" />
+    <RootPropertyPathName Name="Emotion" />
+    <RootPropertyPathName Name="FaceFilters" />
+    <RootPropertyPathName Name="EmotionFaces" />
+    <RootPropertyPathName Name="TopEmotion" />
+    <RootPropertyPathName Name="IsSelected" />
+    <RootPropertyPathName Name="MallKioskDemoCustomSettings" />
+    <RootPropertyPathName Name="MinDetectableFaceCoveragePercentage" />
+    <RootPropertyPathName Name="ShowDebugInfo" />
+    <RootPropertyPathName Name="WorkspaceKey" />
+    <RootPropertyPathName Name="TranslatorTextApiKey" />
+    <RootPropertyPathName Name="Text" />
+    <RootPropertyPathName Name="CustomTextAnalyticsEndpoint" />
+    <RootPropertyPathName Name="AvailableApiEndpoints" />
+    <RootPropertyPathName Name="BindingTextAnalyticsApiKeyEndpoint" />
+    <RootPropertyPathName Name="TextAnalyticsKey" />
+    <RootPropertyPathName Name="BingAutoSuggestionApiKey" />
+    <RootPropertyPathName Name="BingSearchApiKey" />
+    <RootPropertyPathName Name="CustomVisionApiEndpoint" />
+    <RootPropertyPathName Name="BindingVisionApiKeyEndpoint" />
+    <RootPropertyPathName Name="VisionApiKey" />
+    <RootPropertyPathName Name="CustomFaceApiEndpoint" />
+    <RootPropertyPathName Name="BindingFaceApiKeyEndpoint" />
+    <RootPropertyPathName Name="FaceApiKey" />
+    <RootPropertyPathName Name="Label" />
+    <RootPropertyPathName Name="Glyph" />
+    <RootPropertyPathName Name="ImageSelectionMode" />
+    <RootPropertyPathName Name="DetectFacesOnLoad" />
+    <RootPropertyPathName Name="EnableCameraCapture" />
+    <RootPropertyPathName Name="AlternativeTranslationCollection" />
+    <RootPropertyPathName Name="Translations" />
+    <RootPropertyPathName Name="BackTranslations" />
+    <RootPropertyPathName Name="DisplayTarget" />
+    <RootPropertyPathName Name="Children" />
+    <RootPropertyPathName Name="IsExpanded" />
+    <RootPropertyPathName Name="GroupHeaderSymbol" />
+    <RootPropertyPathName Name="IsGroupHeader" />
+    <RootPropertyPathName Name="OutputLanguageCollection" />
+    <RootPropertyPathName Name="OutputLanguage" />
+    <RootPropertyPathName Name="SamplePhraseCollection" />
+    <RootPropertyPathName Name="InputLanguageCollection" />
+    <RootPropertyPathName Name="InputLanguage" />
+    <RootPropertyPathName Name="NaturalDuration" />
+    <RootPropertyPathName Name="IsOn" />
+    <RootPropertyPathName Name="Colors" />
+    <RootPropertyPathName Name="Description" />
+    <RootPropertyPathName Name="Confidence" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="RequestedTheme" />
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="MergedDictionaries" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="ThemeDictionaries" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.AcrylicBrush">
+      <RootProperty Name="BackgroundSource" />
+      <RootProperty Name="TintColor" />
+      <RootProperty Name="TintOpacity" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
+      <RootProperty Name="Content" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="AllowFocusOnInteraction" />
+      <RootEvent Name="SizeChanged" />
+      <RootEvent Name="DataContextChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="MaxHeight" />
+      <RootEvent Name="SizeChanged" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="ElementName" />
+      <RootProperty Name="Path" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="Mode" />
+      <RootProperty Name="ConverterParameter" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+      <RootProperty Name="MinHeight" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.CenteredVerticalBarControl" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Border">
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Padding" />
+      <RootEvent Name="SizeChanged" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.EmotionToColoredBar" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+      <RootProperty Name="MinWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="TextTrimming" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="CharacterSpacing" />
+      <RootProperty Name="TextAlignment" />
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="TextDecorations" />
+      <RootProperty Name="IsTextSelectionEnabled" />
+      <RootEvent Name="Tapped" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.TagScoreControl" />
+    <RootType FullName="Windows.UI.Xaml.Shapes.Polygon">
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Viewbox">
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.OCRBorder" />
+    <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
+      <RootProperty Name="Height" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="Width" />
+      <RootEvent Name="Tapped" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="IntelligentKioskSample.Controls.OverallStatsControl">
+      <RootProperty Name="HeaderText" />
+      <RootProperty Name="SubHeaderText" />
+      <RootProperty Name="SubHeaderVisibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CaptureElement">
+      <RootProperty Name="FlowDirection" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootEvent Name="SizeChanged" />
+      <RootMethod Name="GetLeft" />
+      <RootMethod Name="SetLeft" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Flyout" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Style" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Symbol" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Opacity" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.CameraControl">
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="ShowDialogOnApiErrors" />
+      <RootEvent Name="ImageCaptured" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Polyline">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="Points" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.SentimentControl">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="System.Double" />
+    <RootType FullName="IntelligentKioskSample.Views.SentimentToColorConverter" />
+    <RootType FullName="IntelligentKioskSample.Controls.VerticalBarWithValueControl">
+      <RootProperty Name="BarColor1" />
+      <RootProperty Name="ShowBarValue" />
+      <RootProperty Name="BarColor2" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.SentimentDistributionControl">
+      <RootProperty Name="Height" />
+      <RootProperty Name="HeaderText" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Flyout">
+      <RootProperty Name="Placement" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="FlyoutPresenterStyle" />
+      <RootEvent Name="Opened" />
+      <RootEvent Name="Closed" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="AcceptsReturn" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="IsReadOnly" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="MaxLength" />
+      <RootProperty Name="Visibility" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.SpeechToTextControl">
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.UpDownVerticalBarControl" />
+    <RootType FullName="IntelligentKioskSample.Controls.VerticalBarTimelineControl">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="BarType" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.EmotionResponseTimelineControl" />
+    <RootType FullName="IntelligentKioskSample.Controls.EmotionResponseStackBarControl" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="SizeChanged" />
+      <RootEvent Name="ImageOpened" />
+      <RootEvent Name="PointerReleased" />
+      <RootEvent Name="DataContextChanged" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.AgeGenderDistributionControl">
+      <RootProperty Name="HeaderText" />
+      <RootProperty Name="SubHeaderText" />
+      <RootProperty Name="SubHeaderVisibility" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.EmotionEmojiControl">
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.RealTimeFaceIdentificationBorder" />
+    <RootType FullName="IntelligentKioskSample.Controls.EmotionMeterControl">
+      <RootProperty Name="EmotionName" />
+      <RootProperty Name="EmotionValue" />
+      <RootProperty Name="MeterForeground" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Imaging.BitmapImage">
+      <RootEvent Name="ImageOpened" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.FaceIdentificationBorder" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressBar">
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="Minimum" />
+      <RootProperty Name="Maximum" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.ImageWithFaceBorderUserControl">
+      <RootProperty Name="BalloonBackground" />
+      <RootProperty Name="BalloonForeground" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="DetectFacesOnLoad" />
+      <RootProperty Name="DetectFaceAttributes" />
+      <RootProperty Name="ShowMultipleFaces" />
+      <RootProperty Name="PerformRecognition" />
+      <RootProperty Name="ShowRecognitionResults" />
+      <RootProperty Name="ShowDialogOnApiErrors" />
+      <RootProperty Name="ShowEmotionRecognition" />
+      <RootProperty Name="DetectFaceLandmarks" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="PerformComputerVisionAnalysis" />
+      <RootProperty Name="PerformOCRAnalysis" />
+      <RootProperty Name="PerformObjectDetection" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.VideoTrack" />
+    <RootType FullName="Windows.UI.Xaml.FrameworkElement">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="MinWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CommandBar">
+      <RootProperty Name="DefaultLabelPosition" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="PrimaryCommands" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="SecondaryCommands" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="BorderThickness" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="TabNavigation" />
+      <RootEvent Name="SizeChanged" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.WordCountToFontSizeConverter" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EntranceNavigationTransitionInfo">
+      <RootMethod Name="GetIsTargetElement" />
+      <RootMethod Name="SetIsTargetElement" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.GridView">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="ItemTemplateSelector" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="ItemContainerStyle" />
+      <RootProperty Name="IsMultiSelectCheckBoxEnabled" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Header" />
+      <RootEvent Name="SelectionChanged" />
+      <RootEvent Name="ItemClick" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HyperlinkButton">
+      <RootProperty Name="NavigateUri" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="ItemContainerStyle" />
+      <RootProperty Name="ItemsPanel" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="SelectedIndex" />
+      <RootProperty Name="Items" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="HeaderTemplate" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="DisplayMemberPath" />
+      <RootProperty Name="SelectedValuePath" />
+      <RootProperty Name="SelectedValue" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Foreground" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="System.String" />
+    <RootType FullName="Windows.UI.Xaml.Controls.AutoSuggestBox">
+      <RootProperty Name="TabIndex" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="QueryIcon" />
+      <RootEvent Name="QuerySubmitted" />
+      <RootEvent Name="TextChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToggleSwitch">
+      <RootProperty Name="Height" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="IsOn" />
+      <RootProperty Name="Margin" />
+      <RootEvent Name="Toggled" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.BingNewsAnalyticsPage" />
+    <RootType FullName="IntelligentKioskSample.Controls.BooleanToVisibilityConverter" />
+    <RootType FullName="IntelligentKioskSample.Views.ResultItemTemplateSelector">
+      <RootProperty Name="PhotoTemplate" />
+      <RootProperty Name="ProductTemplate" />
+      <RootProperty Name="CelebrityTemplate" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalScrollBarVisibility" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="VerticalScrollBarVisibility" />
+      <RootMethod Name="GetVerticalScrollBarVisibility" />
+      <RootMethod Name="SetVerticalScrollBarVisibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBoxItem">
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsSelected" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Label" />
+      <RootProperty Name="Flyout" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="AllowFocusOnInteraction" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Controls.ImageSearchUserControl">
+      <RootProperty Name="ImageContentType" />
+      <RootProperty Name="ClearStateWhenClosed" />
+      <RootProperty Name="ImageSelectionMode" />
+      <RootProperty Name="EnableCameraCapture" />
+      <RootProperty Name="RequireFaceInCameraCapture" />
+      <RootEvent Name="OnImageSearchCompleted" />
+      <RootEvent Name="OnImageSearchCanceled" />
+      <RootEvent Name="OnCameraFrameCaptured" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.BingVisualSearch" />
+    <RootType FullName="Windows.UI.Xaml.Controls.GridViewItem" />
+    <RootType FullName="IntelligentKioskSample.Views.CustomVisionExplorer" />
+    <RootType FullName="IntelligentKioskSample.Controls.NullToVisibilityConverter" />
+    <RootType FullName="IntelligentKioskSample.Views.CustomVision.ImageWithRegionEditorsControl">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootEvent Name="RegionsChanged" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.CustomVision.ThumbnailWithRegionsControl">
+      <RootProperty Name="DataContext" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.FlyoutBase">
+      <RootMethod Name="GetAttachedFlyout" />
+      <RootMethod Name="SetAttachedFlyout" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.CustomVisionSetup" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.Thumb">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Background" />
+      <RootEvent Name="DragDelta" />
+      <RootEvent Name="PointerReleased" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.CustomVision.RegionEditorControl" />
+    <RootType FullName="IntelligentKioskSample.Views.DemoLauncherPage" />
+    <RootType FullName="IntelligentKioskSample.Views.FaceIdentificationSetup" />
+    <RootType FullName="IntelligentKioskSample.Views.GreetingKiosk" />
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="IsChecked" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="Checked" />
+      <RootEvent Name="Unchecked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarToggleButton">
+      <RootProperty Name="Label" />
+      <RootProperty Name="IsChecked" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.ImageCollectionInsights.ImageCollectionInsights" />
+    <RootType FullName="Windows.UI.Xaml.Controls.WebView">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.ToggleButton">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="Unchecked" />
+      <RootEvent Name="Checked" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.MallKioskPage" />
+    <RootType FullName="IntelligentKioskSample.Views.RealTimeDemo" />
+    <RootType FullName="IntelligentKioskSample.Views.AutomaticPhotoCapturePage" />
+    <RootType FullName="IntelligentKioskSample.Views.EmotionRecognitionPage" />
+    <RootType FullName="Windows.UI.Xaml.Documents.LineBreak" />
+    <RootType FullName="Windows.UI.Xaml.Controls.MediaElement">
+      <RootProperty Name="AreTransportControlsEnabled" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="TransportControls" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MediaTransportControls">
+      <RootProperty Name="IsPlaybackRateButtonVisible" />
+      <RootProperty Name="IsFullWindowEnabled" />
+      <RootProperty Name="IsFullWindowButtonVisible" />
+      <RootProperty Name="IsZoomButtonVisible" />
+      <RootProperty Name="IsPlaybackRateEnabled" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.RealtimeDriverMonitoring" />
+    <RootType FullName="IntelligentKioskSample.Views.RealtimeImageClassification" />
+    <RootType FullName="IntelligentKioskSample.Views.RealtimeObjectDetection" />
+    <RootType FullName="IntelligentKioskSample.Views.RecognitionPage" />
+    <RootType FullName="IntelligentKioskSample.Controls.StringMatchToVisibilityConverter" />
+    <RootType FullName="IntelligentKioskSample.Controls.StringContainsToVisibilityConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentControl">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Slider">
+      <RootProperty Name="Minimum" />
+      <RootProperty Name="Maximum" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="SmallChange" />
+      <RootProperty Name="LargeChange" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="StepFrequency" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Password" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.SettingsPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItem">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Icon" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.FontIcon">
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Glyph" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationView">
+      <RootProperty Name="MenuItemTemplate" />
+      <RootProperty Name="PaneDisplayMode" />
+      <RootProperty Name="IsPaneOpen" />
+      <RootProperty Name="IsBackButtonVisible" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Frame">
+      <RootProperty Name="ContentTransitions" />
+      <RootEvent Name="Navigated" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.NavigationThemeTransition">
+      <RootProperty Name="DefaultNavigationTransitionInfo" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.AppShell" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTipService">
+      <RootMethod Name="GetToolTip" />
+      <RootMethod Name="SetToolTip" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsControl">
+      <RootProperty Name="ItemContainerStyle" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListViewItem" />
+    <RootType FullName="IntelligentKioskSample.Views.TranslatorExplorer.AlternativeTranslationsControl">
+      <RootProperty Name="DataContext" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TreeViewItem">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="IsExpanded" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Pivot">
+      <RootProperty Name="Items" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PivotItem">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Header" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.Run">
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.FlyoutPresenter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TreeView">
+      <RootProperty Name="Width" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="AllowDrop" />
+      <RootProperty Name="CanDrag" />
+      <RootProperty Name="CanDragItems" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootEvent Name="ItemInvoked" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.TranslatorExplorer.TranslatorExplorerPage" />
+    <RootType FullName="IntelligentKioskSample.Views.VideoInsights.TagFilterControl" />
+    <RootType FullName="IntelligentKioskSample.Views.DurationToStringConverter" />
+    <RootType FullName="IntelligentKioskSample.Views.VideoInsightsPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPanelTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="IntelligentKioskSample.Views.VisionApiExplorer" />
+  </Roots.RootTypes>
+</Roots>
